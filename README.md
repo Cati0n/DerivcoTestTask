@@ -9,3 +9,5 @@ Manual testing was made with help of Postman.
 
 Example:
 http://prntscr.com/p2d8ir
+
+This program includes Unit Tests on Service Level.
