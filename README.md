@@ -2,7 +2,7 @@
 The program counts the amount of unique water cells.
 Cells on the diagonal doesn't count as one lake/pound etc. 
 It also has few restrictions: 
-1) You can't make different lakes within the same  horizontal lane: (check in the Row view) 
+1) You can't make different lakes within the same  horizontal lane: (check in the Raw view) 
 xxxxx
 xOxxx
 xOxxO
